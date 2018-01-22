@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="voicer">
+        <item>小燕-女-普通话</item>
+        <item>小宇-男-普通话</item>
+        <item>小梅-女-广东话</item>
+        <item>小莉-女-台湾话</item>
+        <item>小蓉-女-四川话</item>
+        <item>小芸-女-东北话</item>
+        <item>小坤-男-河南话</item>
+        <item>小强-男-湖南话</item>
+        <item>小莹-女-陕西话</item>
+    </string-array>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/blue">
+        <ImageView
+            android:id="@+id/backImage"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="@dimen/activity_margin"
+            android:src="@drawable/title_bar_back_btn"/>
+        <LinearLayout
+        android:layout_toRightOf="@+id/backImage"
+        android:layout_width="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_height="35dp"
+        android:alpha="0.3"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/my_radius_back">
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="@dimen/activity_margin"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/city_search_bt_icon_pressed"/>
+
+            <com.cuje.myapplication.view.ClearEditText
+                android:id="@+id/clearEditText"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:background="@android:color/transparent"
+                android:gravity="center_vertical"
+                    android:hint="搜索"
+                    android:textColorHint="@color/gray"
+                android:textSize="14dp" />
+
+        </LinearLayout>
+    </RelativeLayout>
+    <ListView
+        android:id="@+id/myAllCityList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </ListView>
+</LinearLayout>
