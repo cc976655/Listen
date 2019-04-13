@@ -2,22 +2,265 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\CUJE\Desktop\122\MyApplication\app\libs\Msc.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\75c605bc06c8203f5abbc0e041b2f69f9554f186\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="4f11330834f00ecbf76acef91a5e3be24b99f9fd">
-        <dex dex="C:\Users\CUJE\Desktop\122\MyApplication\app\build\intermediates\pre-dexed\debug\Msc_af861dfff257d3ce773eec88c9bc01b5cbba439d.jar" />
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a652211003b541ede8b823ea74739cf29f6c1a84\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\CUJE\Desktop\122\MyApplication\app\libs\Sunflower.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\CUJE\.gradle\caches\modules-2\files-2.1\com.squareup\javapoet\1.8.0\e858dc62ef484048540d27d36f3ec2177a3fa9b1\javapoet-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e858dc62ef484048540d27d36f3ec2177a3fa9b1">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\javapoet-1.8.0_4b524ec1bea0fe81d4acb5529255b8f13be8f577\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\3379e57fc3e714306f91ee57443a45983429abba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_253f9cee4ed0c930cf72b45bd762e8beab8bae62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\8b3af40b262203ee225793cc16235742e7005058\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca0dc0c1ee79c013b8518a71d3f2111810f780a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\29fbb6824d6059e2398258781a71aa448442c3e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79501028ebed55720bed3e40b841c56629ba7809\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\android\Listen\app\libs\Sunflower.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f4662a4e05a1b25b039e8be4db58fcb9543a9931">
-        <dex dex="C:\Users\CUJE\Desktop\122\MyApplication\app\build\intermediates\pre-dexed\debug\Sunflower_e64d0daad7336dcd2eaaa1dc4b88b6eb3ae64e5d.jar" />
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\2\Sunflower_a737cadc0459f44f703df85ad6be7ca344e6e608\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_89cd5d5522a1a67ba7df736e460d62e76a797c08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\22aeb5b13c74d8477702e0559007452ae6fb6c66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b80cd0ebdc5587390ef07fc803f17b528d627d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\95a79e68e5af001efc6030051cf7cba659116cf0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c8f0d51ad849b3fad7a890b08579d6c822abf19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_b25ec6ffb715a0f5e3c7338d63a37574256d23ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\a2cdea1dd22b9c7ea410c93bf1c18d6a87154fa8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0872b6f3cc68aed152837e3eca41e7d7d687b894\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.5.1_6eb945515635751c4f295b074772161434a4b513\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\5f7974fca70189997ff05af8ed1842b4544067f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b0d66f417daef2233c8ebb11944c057c038973c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\ff0fab7f25d97787811143f735d5525a1a35ac74\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7eca12a214f5ace121f7747db7cadd8432eb535d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.5.0\bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a\okio-1.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.5.0_8940bf9c9b63f1fb23e5c0e72ce2b9e9ae072ba4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_51ad341781bb71fffa5d22dd42b7b346e7dbc0ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\4e158b17dfb632d69e74fd04c3ab22b8d4d93146\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2bee2ce4e5781f60ab2fa9da510dbb71013cf334\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\ede244674e4a3bc4293975798dd97464a3c0bc19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a6678de87eb0864fc40a8b594ec9ccb9062e826\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\android\Listen\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bc1b6a1bf7ae19fa5c5971d122315d1c095a907">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_772330baa927970bb3befd6d2a59c8b3add6526a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.gradle\caches\modules-2\files-2.1\com.google.auto.service\auto-service\1.0-rc2\51033a5b8fcf7039159e35b6878f106ccd5fb35f\auto-service-1.0-rc2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51033a5b8fcf7039159e35b6878f106ccd5fb35f">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\auto-service-1.0-rc2_d924441ae07d80aada10bf1b6b54d8405a5298c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\70cbb835c27cb7a1d4465cac5e2b329eb52a3d91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fefca213ff661ebf7ad9eac79654e92b829297f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\android\Listen\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2cbf4a3e66d8b5c437849f32170a6a91701f00b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.4.0_12ec17718efc018349ff29429ecf369798ae0155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\6b12f2394876e74ef0d96b582fd55f27f617e077\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df696252ca788cceb3ac39697e4ca953a60f74ab">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_479b202a4cad804e4a4507b877e03f8b9c8a06eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\android\Listen\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f11330834f00ecbf76acef91a5e3be24b99f9fd">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_991501ee4ebbaace24c7c4931c52a75018a9c4c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\c8549beaceb60c86c1a6ccc5a53313c1382da5bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_206de0948481fcc381f5ee9231d13bbcde0773a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-compiler\8.5.1\76253d53698d5a93191ebf72534e9eeb7391b5c3\butterknife-compiler-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76253d53698d5a93191ebf72534e9eeb7391b5c3">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-compiler-8.5.1_8a9185e8cc7c913b20631cc32942c7fb280a4ea0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.gradle\caches\modules-2\files-2.1\com.google.auto\auto-common\0.6\cf7212b0f8bfef12657b942df8f4f2cf032d3f41\auto-common-0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf7212b0f8bfef12657b942df8f4f2cf032d3f41">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\auto-common-0.6_13d0a7409b8971bf40c3b89327bf12a474546707\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CUJE\.android\build-cache\9057544efab6a08f9b780d20285d9b93850e91cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6374f9e5ae91e63be30df9da767d77915da1463">
+        <dex dex="E:\workspace\android\Listen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28236e70e1aeb84f78588b2545c1c784d75bcb15\classes.dex" />
     </item>
 
 </items>
