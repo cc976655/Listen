@@ -4,14 +4,14 @@ import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.annotation.Nullable;
-import android.support.v4.app.Fragment;
-import android.support.v4.widget.SwipeRefreshLayout;
-import android.support.v7.widget.LinearLayoutManager;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
+import androidx.recyclerview.widget.LinearLayoutManager;
 
 import com.cuje.myapplication.R;
 import com.cuje.myapplication.activity.NewsDetailActivity;
@@ -25,6 +25,7 @@ import com.cuje.myapplication.utils.PixUtil;
 import com.jude.easyrecyclerview.EasyRecyclerView;
 import com.jude.easyrecyclerview.adapter.RecyclerArrayAdapter;
 import com.jude.easyrecyclerview.decoration.SpaceDecoration;
+import com.jude.easyrecyclerview.swipe.SwipeRefreshLayout;
 import com.squareup.okhttp.Call;
 import com.squareup.okhttp.Callback;
 import com.squareup.okhttp.OkHttpClient;
@@ -103,21 +104,21 @@ public class NewsFragment extends Fragment {
         });
 
         //下拉刷新
-        recyclerView.setRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
-
-            @Override
-            public void onRefresh() {
-                recyclerView.postDelayed(new Runnable() {
-                    @Override
-                    public void run() {
-                        adapter.clear();
-                        page = 0;
-                        getData(currentNewId);
-                    }
-                }, 1000);
-
-            }
-        });
+//        recyclerView.setRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+//
+//            @Override
+//            public void onRefresh() {
+//                recyclerView.postDelayed(new Runnable() {
+//                    @Override
+//                    public void run() {
+//                        adapter.clear();
+//                        page = 0;
+//                        getData(currentNewId);
+//                    }
+//                }, 1000);
+//
+//            }
+//        });
 
         //设置点击事件
         adapter.setOnItemClickListener(new RecyclerArrayAdapter.OnItemClickListener() {

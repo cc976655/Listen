@@ -1,8 +1,9 @@
 package com.cuje.myapplication.view;
 
 import android.content.Context;
-import android.support.v4.view.ViewPager;
 import android.util.AttributeSet;
+
+import androidx.viewpager.widget.ViewPager;
 
 /**
  * Created by CUJE on 2017/5/28.

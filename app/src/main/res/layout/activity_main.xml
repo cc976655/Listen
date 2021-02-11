@@ -7,14 +7,14 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context="com.cuje.myapplication.MainActivity">
-    <android.support.v7.widget.Toolbar
+    <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
         app:title="@string/app_name"
         android:background="@color/colorPrimaryDark"
         app:titleTextColor="@color/colorWhite"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
-    </android.support.v7.widget.Toolbar>
+    </androidx.appcompat.widget.Toolbar>
 
     <com.cuje.myapplication.view.CustomViewPager
         android:id="@+id/viewPager"
@@ -24,7 +24,7 @@
         android:layout_above="@+id/navigation"/>
 
 
-    <android.support.design.widget.BottomNavigationView
+    <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/navigation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
